@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning Rust and Go.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **elton/elton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
