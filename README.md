@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and Go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 814 Contributions in the Year 2021
+> 🏆 813 Contributions in the Year 2021
  > 
 > 📦 422.9 kB Used in GitHub's Storage 
  > 
