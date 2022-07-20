@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and Go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/elton/elton/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2022 14:30:57 UTC
+ Last Updated on 20/07/2022 15:27:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
