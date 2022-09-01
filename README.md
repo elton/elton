@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and Go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,16 +50,21 @@ Sunday       102 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      8 mins              ███████████████████░░░░░░   78.1% 
+TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 8 mins              ████████████████████░░░░░   81.37% 
+VS Code                  2 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.63%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hsbc-btoe-be             8 mins              ████████████████████░░░░░   81.37% 
+learn-solidjs            2 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.63%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +85,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/elton/elton/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 16:37:28 UTC
+ Last Updated on 01/09/2022 17:34:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
