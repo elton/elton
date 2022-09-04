@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and Go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,11 +65,7 @@ learn-solidjs            3 hrs 5 mins        ███████████�
 hsbc-btoe-be             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
 
 💻 Operating System: 
-solid-js                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.35% 
-types                    1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Counter                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
-Event                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
-Card                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.67%
+Mac                      3 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +86,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/elton/elton/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 07:24:00 UTC
+ Last Updated on 04/09/2022 08:32:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
