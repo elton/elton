@@ -11,13 +11,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 672 Contributions in the Year 2022
+> 🏆 673 Contributions in the Year 2022
  > 
 > 📦 461.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 104 Public Repositories 
+> 📜 105 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -74,7 +74,7 @@ JavaScript               33 repos            █████████░░�
 Go                       17 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
 Rust                     16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.58% 
 Java                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
 
 ```
 
@@ -84,7 +84,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/elton/elton/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 13:59:39 UTC
+ Last Updated on 14/09/2022 14:34:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
