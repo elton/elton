@@ -3,9 +3,9 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C029%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -48,21 +48,21 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               17 mins             ███████████████░░░░░░░░░░   58.59 % 
-YAML                     8 mins              ████████░░░░░░░░░░░░░░░░░   30.13 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+YAML                     1 hr 18 mins        █████████████░░░░░░░░░░░░   53.52 % 
+TypeScript               29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Astro                    29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pwr-fe                   20 mins             █████████████████░░░░░░░░   69.43 % 
-qwik-app                 9 mins              ████████░░░░░░░░░░░░░░░░░   30.57 % 
+pwr-fe                   2 hrs 16 mins       ███████████████████████░░   93.80 % 
+qwik-app                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2023 16:18:41 UTC
+ Last Updated on 10/05/2023 17:06:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
