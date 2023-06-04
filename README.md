@@ -3,9 +3,9 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -48,16 +48,20 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 30 mins        █████████████████████████   99.40 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+llama_index              36 mins             ██████████░░░░░░░░░░░░░░░   39.40 % 
+huggingFace              34 mins             █████████░░░░░░░░░░░░░░░░   37.61 % 
+translate                21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             ████████████████░░░░░░░░░   62.39 % 
+Windows                  34 mins             █████████░░░░░░░░░░░░░░░░   37.61 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +81,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 16:06:26 UTC
+ Last Updated on 04/06/2023 17:06:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
