@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,25 +48,24 @@ Sunday                   275 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        ███████████████████░░░░░░   76.44 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Python                   4 hrs 11 mins       ██████████████████░░░░░░░   73.28 % 
+Git Config               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fastapi-note             1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.37 % 
-LangChainChatWithYourData1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-youtube-downloader       38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-fastapi                  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+ERNIE                    2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+fastapi-note             1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+LangChainChatWithYourData1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+youtube-downloader       38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████░░░░   84.19 % 
-Mac                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +85,7 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2023 16:07:22 UTC
+ Last Updated on 10/07/2023 17:06:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
