@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,26 +48,26 @@ Sunday                   277 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     7 hrs 2 mins        ███████████████░░░░░░░░░░   58.62 % 
-Python                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-TOML                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Rust                     7 hrs 2 mins        ██████████████████░░░░░░░   71.59 % 
+TOML                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Python                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  12 hrs              █████████████████████████   99.98 % 
+VS Code                  9 hrs 49 mins       █████████████████████████   99.98 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-salvo-api-example        4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.35 % 
-hello                    3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-ERNIE                    2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-sample-python-project    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-sampleproject            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+salvo-api-example        4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.95 % 
+hello                    3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
+sample-python-project    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+sampleproject            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+wenda                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Windows                  10 hrs 23 mins      ██████████████████████░░░   86.62 % 
-Mac                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Windows                  8 hrs 13 mins       █████████████████████░░░░   83.66 % 
+Mac                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2023 16:07:31 UTC
+ Last Updated on 17/07/2023 17:07:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
