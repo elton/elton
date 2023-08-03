@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,20 +48,20 @@ Sunday                   277 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   32 mins             ████████████████░░░░░░░░░   65.95 % 
-Other                    13 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Python                   39 mins             █████████████░░░░░░░░░░░░   51.10 % 
+Text                     24 mins             ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-langchain-ChatGLM        36 mins             ██████████████████░░░░░░░   73.14 % 
-Unknown Project          13 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+langchain-ChatGLM        1 hr 4 mins         █████████████████████░░░░   82.82 % 
+Unknown Project          13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 
 💻 Operating System: 
-Windows                  36 mins             ██████████████████░░░░░░░   73.14 % 
-Mac                      13 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Windows                  1 hr 4 mins         █████████████████████░░░░   82.82 % 
+Mac                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +81,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2023 16:07:14 UTC
+ Last Updated on 03/08/2023 17:06:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
