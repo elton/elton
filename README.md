@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -48,25 +48,25 @@ Sunday                   301 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 33 mins       ██████████████░░░░░░░░░░░   55.70 % 
-TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Docker                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-ActionScript             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Python                   6 hrs 25 mins       ███████████████████░░░░░░   74.25 % 
+Docker                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Ezhil                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-st                       6 hrs 49 mins       ██████████████░░░░░░░░░░░   57.96 % 
-fe                       1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-tobacco-xunfei-fe        1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-hello                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-be                       33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+st                       6 hrs 49 mins       ████████████████████░░░░░   78.73 % 
+hello                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+uber                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+be                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Langchain-Chatchat       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  11 hrs 29 mins      ████████████████████████░   97.63 % 
-WSL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Windows                  8 hrs 16 mins       ████████████████████████░   95.53 % 
+WSL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2023 16:06:57 UTC
+ Last Updated on 08/09/2023 17:06:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
