@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C145%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C147%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -48,24 +48,24 @@ Sunday                   301 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 16 mins       ████████████████░░░░░░░░░   64.29 % 
-XML                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-TypeScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Python                   4 hrs 15 mins       █████████████░░░░░░░░░░░░   51.82 % 
+XML                      1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+TypeScript               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-datasifts                5 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.43 % 
-DataStreaming            2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-web                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Langchain-Chatchat       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-server                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+DataStreaming            2 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.83 % 
+web                      2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
+nicegui                  2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+server                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+datasifts                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Mac                      11 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2023 16:07:22 UTC
+ Last Updated on 19/09/2023 17:07:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
