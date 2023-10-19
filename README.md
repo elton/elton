@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 497.1 kB Used in GitHub's Storage 
  > 
-> 🏆 411 Contributions in the Year 2023
+> 🏆 414 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -24,21 +24,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                525 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌆 Daytime                1044 commits        ██████████░░░░░░░░░░░░░░░   40.05 % 
-🌃 Evening                933 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌙 Night                  105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+🌞 Morning                527 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+🌆 Daytime                1045 commits        ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌃 Evening                933 commits         █████████░░░░░░░░░░░░░░░░   35.75 % 
+🌙 Night                  105 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Tuesday                  579 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Wednesday                420 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Thursday                 300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Sunday                   301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Monday                   479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Tuesday                  579 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Wednesday                420 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Thursday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Friday                   295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Saturday                 233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Sunday                   301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 
 
@@ -67,11 +67,11 @@ Mac                      5 hrs 10 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-Go                       20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Rust                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Rust                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
@@ -81,7 +81,7 @@ Jupyter Notebook         4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 03:06:41 UTC
+ Last Updated on 19/10/2023 04:07:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
