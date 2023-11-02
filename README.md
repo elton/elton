@@ -48,7 +48,8 @@ Sunday                   301 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Astro                    12 mins             █████████████████████████   100.00 % 
+Astro                    12 mins             █████████████████████████   98.05 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
 VS Code                  12 mins             █████████████████████████   100.00 % 
@@ -77,7 +78,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2023 16:07:57 UTC
+ Last Updated on 02/11/2023 17:07:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
