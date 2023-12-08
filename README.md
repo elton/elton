@@ -48,20 +48,16 @@ Sunday                   287 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     14 mins             ██████████░░░░░░░░░░░░░░░   38.70 % 
-Docker                   12 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
-Astro                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pwr-fe-v2                32 mins             ██████████████████████░░░   87.09 % 
-python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +77,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2023 16:07:09 UTC
+ Last Updated on 08/12/2023 17:06:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
