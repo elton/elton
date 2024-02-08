@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C170%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C170%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,34 +11,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 493.7 kB Used in GitHub's Storage 
+> 📦 493.8 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2024
+> 🏆 15 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 120 Public Repositories 
+> 📜 121 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                506 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-🌆 Daytime                981 commits         ██████████░░░░░░░░░░░░░░░   41.08 % 
-🌃 Evening                814 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
+🌞 Morning                509 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+🌆 Daytime                981 commits         ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌃 Evening                814 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
 🌙 Night                  87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   414 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Tuesday                  530 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Wednesday                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Thursday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Saturday                 227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Sunday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Monday                   414 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Tuesday                  530 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Wednesday                385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Thursday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Saturday                 227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Sunday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 ```
 
 
@@ -63,11 +63,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-Rust                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Rust                     19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Astro                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Jupyter Notebook         4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 
 
@@ -77,7 +77,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 02:11:11 UTC
+ Last Updated on 08/02/2024 03:06:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
