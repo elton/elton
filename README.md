@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2024
+> 🏆 49 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -24,19 +24,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                482 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌆 Daytime                963 commits         ███████████░░░░░░░░░░░░░░   42.11 % 
-🌃 Evening                759 commits         ████████░░░░░░░░░░░░░░░░░   33.19 % 
+🌞 Morning                482 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌆 Daytime                963 commits         ███████████░░░░░░░░░░░░░░   42.09 % 
+🌃 Evening                760 commits         ████████░░░░░░░░░░░░░░░░░   33.22 % 
 🌙 Night                  83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  507 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Wednesday                370 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Friday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Monday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  507 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Wednesday                371 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Thursday                 257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Friday                   271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 Saturday                 210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 Sunday                   269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
@@ -72,10 +72,10 @@ Windows                  4 hrs 39 mins       ███████████�
 
 ```text
 Rust                     20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 Java                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Astro                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Astro                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 
 
@@ -85,7 +85,7 @@ Astro                    5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2024 14:05:04 UTC
+ Last Updated on 06/03/2024 15:05:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
