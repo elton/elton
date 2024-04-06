@@ -3,7 +3,7 @@
 - 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,24 +46,23 @@ Sunday                   279 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 35 mins      ███████████████████░░░░░░   75.56 % 
-Astro                    2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               13 hrs 34 mins      █████████████████████░░░░   82.16 % 
+Astro                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pwr-fe-v2                16 hrs 10 mins      ██████████████████████░░░   89.87 % 
-astro-tailwindcss-solid  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-ntex-restful-api-web     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-ntex-restful-api-server  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+pwr-fe-v2                16 hrs 16 mins      █████████████████████████   98.47 % 
+ntext-restful-api-web    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+ntex-restful-api-web     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Mac                      11 hrs 11 mins      ████████████████░░░░░░░░░   62.17 % 
-Windows                  6 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
+Mac                      9 hrs 26 mins       ██████████████░░░░░░░░░░░   57.08 % 
+Windows                  7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.92 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +82,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2024 16:04:50 UTC
+ Last Updated on 06/04/2024 17:05:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
