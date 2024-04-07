@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 As a full stack developer, I have expertise in both front-end and back-end development technologies. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I am capable of rapidly adapting to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
+- 🌱 As a full-stack developer, I have front-end and back-end development technologies expertise. My skill set includes proficiency in HTML5, CSS3, JavaScript, TypeScript, React, Vue3, Node.js, Java, Spring, Golang, Rust, and various databases such as MongoDB, MySQL, and PostgreSQL. I have a strong understanding of software development methodologies and have a proven track record of delivering high-quality, scalable, and efficient applications. With excellent problem-solving skills and attention to detail, I can rapidly adapt to new technologies and projects. I am passionate about creating user-friendly and visually appealing web applications that meet business requirements and deliver a great user experience.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2045%20mins-blue)
@@ -74,13 +74,6 @@ Python                   6 repos             █░░░░░░░░░░�
 Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
-
 
  Last Updated on 07/04/2024 13:04:39 UTC
 <!--END_SECTION:waka-->
