@@ -15,6 +15,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 246 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 123 Public Repositories 
@@ -48,17 +50,16 @@ Sunday                   270 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     13 mins             █████████████████░░░░░░░░   68.20 % 
-Rust                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pwr-be-v2                19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +79,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 16:05:04 UTC
+ Last Updated on 07/05/2024 17:05:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
