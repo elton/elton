@@ -15,6 +15,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 306 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 124 Public Repositories 
@@ -77,7 +79,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 13:06:38 UTC
+ Last Updated on 27/07/2024 14:05:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
