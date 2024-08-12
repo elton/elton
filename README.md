@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -79,7 +79,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2024 15:05:42 UTC
+ Last Updated on 12/08/2024 16:05:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
