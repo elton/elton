@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,16 +50,22 @@ Sunday                   250 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Rust                     59 mins             ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+TOML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+TypeScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ntex-restful-api-server  1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.98 % 
+pwr-be-v2                1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.50 % 
+pwr-fe-v2                53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +85,7 @@ Astro                    3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 16:06:02 UTC
+ Last Updated on 04/09/2024 17:05:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
