@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C423%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C423%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -14,6 +14,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 167 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -48,16 +50,18 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     3 mins              █████████████████████████   100.00 % 
+YAML                     3 mins              ████████████████░░░░░░░░░   65.54 % 
+JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   34.46 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pwr-fe-v2                3 mins              █████████████████████████   100.00 % 
+pwr-fe-v2                3 mins              ████████████████░░░░░░░░░   65.54 % 
+sky-share-fe             2 mins              █████████░░░░░░░░░░░░░░░░   34.46 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +81,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2024 16:06:03 UTC
+ Last Updated on 16/10/2024 17:05:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
