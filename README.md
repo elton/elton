@@ -15,8 +15,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 169 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 127 Public Repositories 
@@ -50,16 +48,16 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pwr-be-v2                2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +77,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 16:07:46 UTC
+ Last Updated on 12/11/2024 17:06:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
