@@ -50,20 +50,16 @@ Sunday                   266 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   19 mins             ██████████░░░░░░░░░░░░░░░   39.53 % 
-TypeScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
-JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vue-study                49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +79,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2024 16:05:55 UTC
+ Last Updated on 13/12/2024 17:05:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
