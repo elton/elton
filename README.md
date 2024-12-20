@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,8 +14,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 169 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -50,17 +48,18 @@ Sunday                   268 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     8 mins              ███████████████████░░░░░░   75.11 % 
-TypeScript               2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+YAML                     8 mins              ███████████████░░░░░░░░░░   61.51 % 
+TypeScript               5 mins              ██████████░░░░░░░░░░░░░░░   38.49 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pwr-fe-v2                11 mins             █████████████████████████   100.00 % 
+pwr-fe-v2                14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             ████████████████████░░░░░   81.89 % 
+Windows                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +79,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 16:06:10 UTC
+ Last Updated on 20/12/2024 17:06:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
