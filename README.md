@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C433%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C433%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,18 +50,19 @@ Sunday                   274 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     9 mins              █████████████████████████   99.77 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TOML                     6 mins              ███████████████░░░░░░░░░░   58.25 % 
+TypeScript               4 mins              ██████████░░░░░░░░░░░░░░░   41.54 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pwr-be-v2                9 mins              █████████████████████████   100.00 % 
+pwr-be-v2                6 mins              ███████████████░░░░░░░░░░   58.46 % 
+pwr-fe-v2                4 mins              ██████████░░░░░░░░░░░░░░░   41.54 % 
 
 💻 Operating System: 
-Windows                  6 mins              ████████████████░░░░░░░░░   64.42 % 
-Mac                      3 mins              █████████░░░░░░░░░░░░░░░░   35.58 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +82,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 16:06:21 UTC
+ Last Updated on 24/02/2025 17:05:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
