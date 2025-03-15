@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,18 +50,19 @@ Sunday                   274 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Astro                    16 mins             █████████████░░░░░░░░░░░░   53.77 % 
-TypeScript               14 mins             ████████████░░░░░░░░░░░░░   46.23 % 
+HTML                     8 mins              █████████████████████████   99.43 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Cursor                   24 mins             ███████████████████░░░░░░   77.45 % 
-VS Code                  7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+VS Code                  8 mins              █████████████████████████   99.43 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-pwr-fe-v2                31 mins             █████████████████████████   100.00 % 
+u-touch-cms-html         8 mins              █████████████████████████   99.43 % 
+pwr-fe-v2                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +82,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 16:05:27 UTC
+ Last Updated on 15/03/2025 17:05:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
