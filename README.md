@@ -15,8 +15,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 132 Public Repositories 
@@ -91,7 +89,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 13:15:11 UTC
+ Last Updated on 28/05/2025 14:06:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
