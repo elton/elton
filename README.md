@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C125%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C126%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,6 +14,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -87,7 +89,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 03:35:28 UTC
+ Last Updated on 15/12/2025 04:20:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
