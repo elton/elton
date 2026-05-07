@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C338%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C345%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,45 +23,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                984 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-🌆 Daytime                2005 commits        ██████████░░░░░░░░░░░░░░░   40.56 % 
-🌃 Evening                1824 commits        █████████░░░░░░░░░░░░░░░░   36.90 % 
-🌙 Night                  130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   995 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Tuesday                  825 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Wednesday                788 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Friday                   592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Saturday                 494 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Sunday                   645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -79,7 +40,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 16:37:46 UTC
+ Last Updated on 07/05/2026 17:36:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
