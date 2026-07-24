@@ -5,8 +5,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C861%20hrs%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.99%20million%20lines%20of%20code-blue?style=flat)
@@ -90,7 +88,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 14:51:53 UTC
+ Last Updated on 24/07/2026 16:39:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
