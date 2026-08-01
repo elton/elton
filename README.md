@@ -52,50 +52,50 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-TypeScript               7 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Kotlin                   4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Rust                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Java                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+TypeScript               6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Markdown                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Kotlin                   3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Rust                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Java                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 7 mins       █████████████████████░░░░   85.55 % 
-VS Code                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-IntelliJ IDEA            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Claude Code              24 hrs 41 mins      █████████████████████░░░░   84.35 % 
+VS Code                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+IntelliJ IDEA            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🐱‍💻 Projects: 
-office-website           7 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-togopet-app              6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-togopet-be               4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-promichi-fe-react        4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-promichi-be              3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+office-website           7 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+togopet-app              4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+promichi-fe-react        4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+togopet-be               3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+promichi-be              3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 
 💻 Operating System: 
-Mac                      31 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 31 mins (99.42%)
+⏱ AI Coding Time: 29 hrs 5 mins (99.38%)
 
-✍️ 53,463 lines written by AI, 28 lines written by hand (99.95% AI-written)
+✍️ 52,761 lines written by AI, 28 lines written by hand (99.95% AI-written)
 
-🔤 2,509,759,356 Input Tokens, 7,409,524 Output Tokens
+🔤 2,396,530,665 Input Tokens, 7,056,919 Output Tokens
 
-💵 $12587.47 Estimated AI Cost This Week
+💵 $12039.76 Estimated AI Cost This Week
 
-🧠 250 AI Sessions, 446 AI Prompts
+🧠 247 AI Sessions, 435 AI Prompts
 
-Opus                     52,742 lines        ████████████████████████░   96.26 % 
-GPT                      2,012 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Sonnet                   34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Opus                     52,060 lines        ████████████████████████░   96.27 % 
+GPT                      2,012 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 Fable                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 5,460 characters per prompt
+📚 Verbose Prompter — average 5,522 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
@@ -117,7 +117,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 16:57:12 UTC
+ Last Updated on 01/08/2026 17:59:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
