@@ -5,9 +5,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C754%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-619%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-624%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1271 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌆 Daytime                2318 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
-🌃 Evening                1764 commits        ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌞 Morning                1275 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌆 Daytime                2318 commits        ███████████░░░░░░░░░░░░░░   42.07 % 
+🌃 Evening                1764 commits        ████████░░░░░░░░░░░░░░░░░   32.01 % 
 🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1021 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Tuesday                  1013 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Wednesday                896 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 803 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Monday                   1021 commits        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Tuesday                  1017 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Wednesday                896 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 803 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Friday                   672 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Saturday                 463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Sunday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Saturday                 463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Sunday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 
 
@@ -52,52 +52,51 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Markdown                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Kotlin                   3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Rust                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Java                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Markdown                 7 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+TypeScript               7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Kotlin                   5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Rust                     3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Astro                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 41 mins      █████████████████████░░░░   84.35 % 
-VS Code                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-IntelliJ IDEA            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Claude Code              32 hrs 10 mins      █████████████████████░░░░   85.94 % 
+VS Code                  3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+IntelliJ IDEA            2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🐱‍💻 Projects: 
-office-website           7 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-togopet-app              4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-promichi-fe-react        4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-togopet-be               3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-promichi-be              3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+togopet-app              10 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+office-website           9 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+togopet-be               6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+promichi-fe-react        3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+promichi-be              2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 💻 Operating System: 
-Mac                      29 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 5 mins (99.38%)
+⏱ AI Coding Time: 37 hrs 15 mins (99.51%)
 
-✍️ 52,761 lines written by AI, 28 lines written by hand (99.95% AI-written)
+✍️ 84,247 lines written by AI, 28 lines written by hand (99.97% AI-written)
 
-🔤 2,396,530,665 Input Tokens, 7,056,919 Output Tokens
+🔤 4,948,568,615 Input Tokens, 12,763,802 Output Tokens
 
-💵 $12039.76 Estimated AI Cost This Week
+💵 $24857.12 Estimated AI Cost This Week
 
-🧠 247 AI Sessions, 435 AI Prompts
+🧠 284 AI Sessions, 830 AI Prompts
 
-Opus                     52,060 lines        ████████████████████████░   96.27 % 
-GPT                      2,012 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Fable                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     85,072 lines        ████████████████████████░   97.69 % 
+GPT                      2,012 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 5,522 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 4,632 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +116,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 16:19:44 UTC
+ Last Updated on 04/08/2026 01:55:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
