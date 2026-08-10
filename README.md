@@ -25,6 +25,83 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1348 commits        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌆 Daytime                2395 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+🌃 Evening                1774 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1052 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Tuesday                  1027 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Wednesday                969 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Thursday                 852 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Friday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Sunday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 10 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Kotlin                   7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+TypeScript               6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Java                     6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Rust                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+
+🔥 Editors: 
+Claude Code              37 hrs 37 mins      ██████████████████████░░░   89.24 % 
+VS Code                  3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+IntelliJ IDEA            54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Codex Vscode             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🐱‍💻 Projects: 
+togopet-app              8 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+office-website           7 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+promichi-be              7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+michi                    4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+togopet-be               4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+
+💻 Operating System: 
+Mac                      42 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 42 hrs 2 mins (99.73%)
+
+✍️ 64,344 lines written by AI, 90 lines written by hand (99.86% AI-written)
+
+🔤 3,417,969,195 Input Tokens, 11,014,845 Output Tokens
+
+💵 $9169.16 Estimated AI Cost This Week
+
+🧠 458 AI Sessions, 735 AI Prompts
+
+Sonnet                   55,581 lines        ████████████████████░░░░░   80.01 % 
+Opus                     11,531 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Haiku                    2,059 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+GPT                      294 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 5,687 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -42,7 +119,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 17:48:32 UTC
+ Last Updated on 10/08/2026 18:49:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
