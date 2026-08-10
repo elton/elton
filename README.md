@@ -5,9 +5,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C781%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-645%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-651%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,82 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1348 commits        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-🌆 Daytime                2395 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-🌃 Evening                1774 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1052 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Tuesday                  1027 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Wednesday                969 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Thursday                 852 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Friday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Saturday                 463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Sunday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Kotlin                   5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Markdown                 5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Java                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-TypeScript               2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Rust                     2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-
-🔥 Editors: 
-Claude Code              23 hrs 9 mins       ██████████████████████░░░   89.78 % 
-VS Code                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-IntelliJ IDEA            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🐱‍💻 Projects: 
-togopet-app              6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-office-website           4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-togopet-be               4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-promichi-be              3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-promichi-sso-server      2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-
-💻 Operating System: 
-Mac                      25 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 25 hrs 40 mins (99.52%)
-
-✍️ 28,685 lines written by AI, 83 lines written by hand (99.71% AI-written)
-
-🔤 2,752,805,570 Input Tokens, 6,473,046 Output Tokens
-
-💵 $9590.55 Estimated AI Cost This Week
-
-🧠 278 AI Sessions, 482 AI Prompts
-
-Sonnet                   17,771 lines        ███████████████░░░░░░░░░░   60.28 % 
-Opus                     10,226 lines        █████████░░░░░░░░░░░░░░░░   34.69 % 
-Haiku                    1,483 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 4,962 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.28% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -118,7 +42,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 16:51:05 UTC
+ Last Updated on 10/08/2026 17:48:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
