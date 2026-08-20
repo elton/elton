@@ -105,11 +105,11 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-Rust                     24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Rust                     24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+TypeScript               15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Python                   8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 
@@ -119,7 +119,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 07:38:10 UTC
+ Last Updated on 20/08/2026 08:33:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
