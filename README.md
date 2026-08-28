@@ -52,54 +52,54 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.12 % 
-Markdown                 5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Java                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TypeScript               5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.07 % 
+Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Other                    2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Java                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 23 mins      ██████████████████░░░░░░░   71.07 % 
-Codex Vscode             2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-IntelliJ IDEA            1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Codex CLI                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Claude Code              9 hrs 19 mins       █████████████████░░░░░░░░   68.41 % 
+IntelliJ IDEA            1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Codex Vscode             1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Codex CLI                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-promichi-fe-react        5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-promichi-be              4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-michi                    3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-promichi                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-office-website           2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+promichi-fe-react        3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+promichi-be              2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+michi                    1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+office-website           1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+promichi                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 💻 Operating System: 
-Mac                      23 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 1 min (99.83%)
+⏱ AI Coding Time: 13 hrs 35 mins (99.71%)
 
-✍️ 15,581 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 9,355 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 35,490,038 Input Tokens, 3,270,691 Output Tokens
+🔤 22,319,739 Input Tokens, 1,895,404 Output Tokens
 
-💵 $802.46 Estimated AI Cost This Week
+💵 $421.86 Estimated AI Cost This Week
 
-🧠 230 AI Sessions, 334 AI Prompts
+🧠 150 AI Sessions, 207 AI Prompts
 
-Sonnet                   7,274 lines         ████████████░░░░░░░░░░░░░   46.35 % 
-Opus                     6,663 lines         ███████████░░░░░░░░░░░░░░   42.46 % 
-GPT                      1,374 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Haiku                    325 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Codex-Cli                56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Sonnet                   7,274 lines         ███████████████████░░░░░░   76.88 % 
+GPT                      1,374 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Opus                     433 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Haiku                    325 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Codex-Cli                56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 5,243 characters per prompt
+📚 Verbose Prompter — average 6,727 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 08:26:41 UTC
+ Last Updated on 28/08/2026 20:39:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
