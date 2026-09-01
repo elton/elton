@@ -52,51 +52,51 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
-YAML                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-TypeScript               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Other                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Java                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Markdown                 7 hrs 6 mins        ███████████████░░░░░░░░░░   59.35 % 
+Other                    1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+YAML                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Java                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 36 mins      █████████████████████░░░░   85.31 % 
-Codex Vscode             1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Claude Code              10 hrs 41 mins      ██████████████████████░░░   89.15 % 
+VS Code                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-souba                    5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-office-website           3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-promichi-be              2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-promichi-fe-react        1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-ut-match.com             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+souba                    5 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.22 % 
+ut-match.com             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+seeder                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+promichi-be              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+promichi-fe-react        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Mac                      18 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 13 mins (99.62%)
+⏱ AI Coding Time: 11 hrs 54 mins (99.41%)
 
-✍️ 2,353 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,062 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 19,698,907 Input Tokens, 2,393,552 Output Tokens
+🔤 13,533,860 Input Tokens, 1,491,832 Output Tokens
 
-💵 $555.21 Estimated AI Cost This Week
+💵 $344.56 Estimated AI Cost This Week
 
-🧠 129 AI Sessions, 197 AI Prompts
+🧠 61 AI Sessions, 119 AI Prompts
 
-Opus                     2,353 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,062 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 3,148 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 2,692 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +116,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 19:11:36 UTC
+ Last Updated on 01/09/2026 22:20:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
