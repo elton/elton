@@ -11,7 +11,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1426 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌆 Daytime                2556 commits        ███████████░░░░░░░░░░░░░░   43.22 % 
-🌃 Evening                1775 commits        ████████░░░░░░░░░░░░░░░░░   30.01 % 
-🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                1415 commits        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌆 Daytime                2556 commits        ███████████░░░░░░░░░░░░░░   43.32 % 
+🌃 Evening                1772 commits        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+🌙 Night                  157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1107 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Tuesday                  1101 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Wednesday                1067 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Thursday                 858 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   675 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Saturday                 468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Sunday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Monday                   1107 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Tuesday                  1095 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Wednesday                1065 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Thursday                 852 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   675 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Saturday                 468 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Sunday                   638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 ```
 
 
@@ -52,51 +52,45 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 6 mins        ███████████████░░░░░░░░░░   59.35 % 
-Other                    1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-YAML                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Java                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown                 37 mins             ███████████████████████░░   91.33 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 41 mins      ██████████████████████░░░   89.15 % 
-VS Code                  51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Codex Vscode             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Claude Code              39 mins             ████████████████████████░   97.24 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🐱‍💻 Projects: 
-souba                    5 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.22 % 
-ut-match.com             1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-seeder                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-promichi-be              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-promichi-fe-react        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+ut-match.com             23 mins             ██████████████░░░░░░░░░░░   57.71 % 
+souba                    13 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
+seeder                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+promichi-fe-react        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Mac                      11 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 54 mins (99.41%)
+⏱ AI Coding Time: 40 mins (98.85%)
 
-✍️ 2,062 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 205 lines written by AI, 1 lines written by hand (99.51% AI-written)
 
-🔤 13,533,860 Input Tokens, 1,491,832 Output Tokens
+🔤 812,663 Input Tokens, 35,344 Output Tokens
 
-💵 $344.56 Estimated AI Cost This Week
+💵 $11.68 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 119 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Opus                     2,062 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     205 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 2,692 characters per prompt
+🤖 AI-Driven — 99.51% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +110,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 18:23:58 UTC
+ Last Updated on 02/09/2026 21:34:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
