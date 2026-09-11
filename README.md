@@ -5,9 +5,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=elton&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C839%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-712%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-712%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -52,54 +52,54 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 16 hrs 50 mins      ██████████████░░░░░░░░░░░   54.77 % 
-TOML                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-TypeScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Astro                    1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Markdown                 15 hrs 17 mins      ██████████████░░░░░░░░░░░   57.15 % 
+TOML                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Astro                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 34 mins      █████████████░░░░░░░░░░░░   53.89 % 
-VS Code                  9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
-IntelliJ IDEA            2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Codex Vscode             1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Claude Code              14 hrs 15 mins      █████████████░░░░░░░░░░░░   53.30 % 
+VS Code                  8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
+IntelliJ IDEA            2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Codex Vscode             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-ut-match.com             7 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-togopet-be               4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-upass                    3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-promichi                 3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-promichi-be              2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+ut-match.com             5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+upass                    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+promichi                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+togopet-be               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+promichi-fe-react        2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 💻 Operating System: 
-Mac                      30 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 25 mins (98.93%)
+⏱ AI Coding Time: 26 hrs 41 mins (99.8%)
 
-✍️ 4,890 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 4,823 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 47,268,567 Input Tokens, 3,601,576 Output Tokens
+🔤 45,629,018 Input Tokens, 3,292,708 Output Tokens
 
-💵 $760.49 Estimated AI Cost This Week
+💵 $710.38 Estimated AI Cost This Week
 
-🧠 625 AI Sessions, 1004 AI Prompts
+🧠 579 AI Sessions, 955 AI Prompts
 
-Fable                    3,238 lines         ███████████████░░░░░░░░░░   59.87 % 
-Sonnet                   1,747 lines         ████████░░░░░░░░░░░░░░░░░   32.30 % 
-Opus                     420 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Fable                    3,238 lines         ███████████████░░░░░░░░░░   61.19 % 
+Sonnet                   1,747 lines         ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Opus                     266 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+GPT                      41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 7,092 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 7,349 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 18:08:44 UTC
+ Last Updated on 11/09/2026 21:33:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
