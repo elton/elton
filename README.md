@@ -52,42 +52,42 @@ Sunday                   638 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 17 mins      ██████████████░░░░░░░░░░░   57.15 % 
-TOML                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Astro                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 11 hrs 57 mins      █████████████░░░░░░░░░░░░   51.04 % 
+TOML                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Astro                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 15 mins      █████████████░░░░░░░░░░░░   53.30 % 
-VS Code                  8 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-IntelliJ IDEA            2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Codex Vscode             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Claude Code              14 hrs 7 mins       ███████████████░░░░░░░░░░   60.30 % 
+VS Code                  5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+IntelliJ IDEA            2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Codex Vscode             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Codex CLI                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-ut-match.com             5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-upass                    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-promichi                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-togopet-be               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-promichi-fe-react        2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+ut-match.com             5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+upass                    3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+promichi                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+promichi-fe-react        2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+promichi-be              1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 💻 Operating System: 
-Mac                      26 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 41 mins (99.8%)
+⏱ AI Coding Time: 23 hrs 21 mins (99.77%)
 
 ✍️ 4,823 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 45,629,018 Input Tokens, 3,292,708 Output Tokens
+🔤 44,329,449 Input Tokens, 3,271,631 Output Tokens
 
-💵 $710.38 Estimated AI Cost This Week
+💵 $708.58 Estimated AI Cost This Week
 
-🧠 579 AI Sessions, 955 AI Prompts
+🧠 560 AI Sessions, 877 AI Prompts
 
 Fable                    3,238 lines         ███████████████░░░░░░░░░░   61.19 % 
 Sonnet                   1,747 lines         ████████░░░░░░░░░░░░░░░░░   33.01 % 
@@ -97,7 +97,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,349 characters per prompt
+📚 Verbose Prompter — average 5,329 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
@@ -119,7 +119,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 17:14:02 UTC
+ Last Updated on 13/09/2026 20:09:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
