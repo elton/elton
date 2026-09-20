@@ -52,40 +52,40 @@ Sunday                   648 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.99 % 
-Markdown                 6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Astro                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Markdown                 6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Other                    5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+TypeScript               3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Astro                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 37 mins      ██████████████████░░░░░░░   72.73 % 
-Codex Vscode             3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-VS Code                  2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Claude Code              15 hrs 35 mins      ████████████████████░░░░░   79.35 % 
+Codex Vscode             3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-ut-match.com             11 hrs 57 mins      ██████████████░░░░░░░░░░░   55.64 % 
-eltonzheng.me            2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-web                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-TradingAgents            1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-promichi-fe-react        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+ut-match.com             11 hrs 57 mins      ███████████████░░░░░░░░░░   60.85 % 
+eltonzheng.me            2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TradingAgents            1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+promichi-fe-react        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+promichi                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Mac                      21 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 27 mins (99.81%)
+⏱ AI Coding Time: 19 hrs 36 mins (99.79%)
 
 ✍️ 2,581 lines written by AI, 7 lines written by hand (99.73% AI-written)
 
-🔤 15,404,162 Input Tokens, 1,805,302 Output Tokens
+🔤 14,689,559 Input Tokens, 1,792,629 Output Tokens
 
 💵 $322.76 Estimated AI Cost This Week
 
-🧠 321 AI Sessions, 719 AI Prompts
+🧠 314 AI Sessions, 599 AI Prompts
 
 Opus                     1,397 lines         █████████████░░░░░░░░░░░░   52.78 % 
 Fable                    1,250 lines         ████████████░░░░░░░░░░░░░   47.22 % 
@@ -94,7 +94,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.73% of written lines came from AI
-📚 Verbose Prompter — average 5,431 characters per prompt
+📚 Verbose Prompter — average 4,788 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
@@ -116,7 +116,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 17:17:24 UTC
+ Last Updated on 20/09/2026 20:09:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
