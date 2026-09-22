@@ -52,51 +52,49 @@ Sunday                   703 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-Other                    3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-TypeScript               2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Astro                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Markdown                 3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Other                    2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+JavaScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Astro                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 43 mins      ███████████████████████░░   90.44 % 
-Codex Vscode             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Claude Code              9 hrs 2 mins        ████████████████████████░   97.99 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🐱‍💻 Projects: 
-ut-match.com             8 hrs 16 mins       ██████████████░░░░░░░░░░░   54.51 % 
-eltonzheng.me            1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-TradingAgents            1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-promichi-fe-react        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-promichi                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+ut-match.com             3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
+eltonzheng.me            1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+TradingAgents            1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+promichi-fe-react        37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+togopet-admin-fe         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 8 mins (99.73%)
+⏱ AI Coding Time: 9 hrs 11 mins (99.56%)
 
-✍️ 2,207 lines written by AI, 7 lines written by hand (99.68% AI-written)
+✍️ 1,935 lines written by AI, 7 lines written by hand (99.64% AI-written)
 
-🔤 11,193,708 Input Tokens, 1,491,679 Output Tokens
+🔤 6,298,406 Input Tokens, 781,954 Output Tokens
 
-💵 $261.92 Estimated AI Cost This Week
+💵 $166.45 Estimated AI Cost This Week
 
-🧠 238 AI Sessions, 496 AI Prompts
+🧠 82 AI Sessions, 210 AI Prompts
 
-Opus                     1,201 lines         █████████████░░░░░░░░░░░░   53.54 % 
-Fable                    1,042 lines         ████████████░░░░░░░░░░░░░   46.46 % 
+Opus                     1,201 lines         ████████████████░░░░░░░░░   62.07 % 
+Fable                    734 lines           █████████░░░░░░░░░░░░░░░░   37.93 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 4,606 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.64% of written lines came from AI
+📚 Verbose Prompter — average 4,508 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +114,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 15:25:06 UTC
+ Last Updated on 22/09/2026 19:31:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
