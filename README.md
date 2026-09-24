@@ -25,78 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1590 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌆 Daytime                2812 commits        ███████████░░░░░░░░░░░░░░   43.82 % 
-🌃 Evening                1849 commits        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-🌙 Night                  166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1133 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Tuesday                  1224 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Wednesday                1116 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Thursday                 945 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Saturday                 486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Sunday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.71 % 
-JavaScript               1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-TypeScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 46 mins       ████████████████████████░   97.31 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-
-🐱‍💻 Projects: 
-eltonzheng.me            1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
-TradingAgents            1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-togopet-admin-fe         36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-promichi-fe-react        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-togopet-be               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-
-💻 Operating System: 
-Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 51 mins (99.17%)
-
-✍️ 1,709 lines written by AI, 7 lines written by hand (99.59% AI-written)
-
-🔤 3,869,213 Input Tokens, 413,669 Output Tokens
-
-💵 $119.08 Estimated AI Cost This Week
-
-🧠 50 AI Sessions, 128 AI Prompts
-
-Opus                     1,201 lines         ██████████████████░░░░░░░   70.28 % 
-Fable                    508 lines           ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 5,244 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -114,7 +42,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 15:44:20 UTC
+ Last Updated on 24/09/2026 19:46:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
