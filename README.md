@@ -52,22 +52,51 @@ Sunday                   851 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Java                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+XML                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 57 mins        ███████████████░░░░░░░░░░   58.90 % 
+Codex Vscode             1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+promichi-be              1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   32.55 % 
+promichi                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+togopet-be               36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+promichi-fe-react        32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+eltonzheng.me            12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 18 mins (99.31%)
+
+✍️ 656 lines written by AI, 1 lines written by hand (99.85% AI-written)
+
+🔤 2,981,402 Input Tokens, 383,173 Output Tokens
+
+💵 $40.59 Estimated AI Cost This Week
+
+🧠 74 AI Sessions, 133 AI Prompts
+
+Opus                     659 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 5,472 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +116,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 14:56:01 UTC
+ Last Updated on 28/09/2026 21:05:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
