@@ -52,52 +52,52 @@ Sunday                   974 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.06 % 
-Other                    9 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Markdown                 7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-TOML                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Kotlin                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Rust                     11 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Other                    9 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Markdown                 7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+TOML                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Kotlin                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🔥 Editors: 
-Codex Vscode             27 hrs 43 mins      ██████████████████░░░░░░░   71.73 % 
-VS Code                  9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Claude Code              1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Codex Vscode             27 hrs 43 mins      ██████████████████░░░░░░░   72.12 % 
+VS Code                  9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Claude Code              1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-togopet-be               23 hrs 5 mins       ███████████████░░░░░░░░░░   59.76 % 
-eltonzheng.me            4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-togopet-app              3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-ut-match.com             3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-05-touchi                2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+togopet-be               22 hrs 59 mins      ███████████████░░░░░░░░░░   59.80 % 
+eltonzheng.me            4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+togopet-app              3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+ut-match.com             3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+05-touchi                2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-Mac                      38 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 30 mins (99.61%)
+⏱ AI Coding Time: 38 hrs 17 mins (99.61%)
 
-✍️ 4,710 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,649 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,693,831 Input Tokens, 4,829,219 Output Tokens
+🔤 34,499,177 Input Tokens, 4,827,659 Output Tokens
 
-💵 $503.16 Estimated AI Cost This Week
+💵 $500.33 Estimated AI Cost This Week
 
-🧠 253 AI Sessions, 1121 AI Prompts
+🧠 252 AI Sessions, 1121 AI Prompts
 
-GPT                      4,075 lines         █████████████████████░░░░   84.86 % 
-Opus                     423 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Codex-Vscode             243 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Sonnet                   61 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+GPT                      4,075 lines         █████████████████████░░░░   85.95 % 
+Opus                     423 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Codex-Vscode             243 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 10,195 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 16:09:00 UTC
+ Last Updated on 10/10/2026 20:31:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
