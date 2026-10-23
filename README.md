@@ -25,77 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2567 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌆 Daytime                4034 commits        ███████████░░░░░░░░░░░░░░   43.47 % 
-🌃 Evening                2453 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-🌙 Night                  227 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1787 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Tuesday                  1738 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Wednesday                1504 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Thursday                 1407 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Friday                   1159 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Saturday                 709 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Sunday                   977 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-TypeScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-JSON                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Java                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 57 mins       █████████████████████████   99.79 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-
-🐱‍💻 Projects: 
-ut-match.com             2 hrs 57 mins       ███████████████░░░░░░░░░░   59.53 % 
-togopet-app              41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-promichi-be              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-promichi-fe-react        20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-promichi                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-
-💻 Operating System: 
-Mac                      4 hrs 58 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 58 mins (100.0%)
-
-✍️ 2,239 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,890,022 Input Tokens, 419,103 Output Tokens
-
-💵 $76.89 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 61 AI Prompts
-
-Opus                     2,251 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,323 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -113,7 +42,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 15:41:16 UTC
+ Last Updated on 23/10/2026 19:47:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
