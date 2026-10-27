@@ -52,47 +52,46 @@ Sunday                   977 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
-TypeScript               3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-JavaScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Astro                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Java                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+TypeScript               3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Astro                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Java                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 23 mins      █████████████████████████   99.53 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Claude Code              14 hrs 54 mins      █████████████████████████   99.09 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-ut-match.com             5 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
-promichi                 3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-eltonzheng.me            2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-office-website           1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-promichi-be              50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+ut-match.com             8 hrs 15 mins       ██████████████░░░░░░░░░░░   54.86 % 
+promichi                 3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+promichi-be              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+promichi-subscription-ser34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+sugisekkei.com           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-Mac                      16 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 28 mins (100.0%)
+⏱ AI Coding Time: 15 hrs 2 mins (100.0%)
 
-✍️ 6,674 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,962 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,657,680 Input Tokens, 1,592,738 Output Tokens
+🔤 10,353,974 Input Tokens, 1,453,090 Output Tokens
 
-💵 $216.54 Estimated AI Cost This Week
+💵 $190.96 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 212 AI Prompts
+🧠 32 AI Sessions, 205 AI Prompts
 
-Opus                     6,100 lines         ███████████████████████░░   90.12 % 
-Sonnet                   669 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,494 lines         ███████████████████████░░   91.80 % 
+Sonnet                   669 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,844 characters per prompt
+📄 Detailed Prompter — average 1,434 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -114,7 +113,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elton/elton/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 15:45:48 UTC
+ Last Updated on 27/10/2026 20:27:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
